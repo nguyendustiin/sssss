@@ -401,4 +401,4 @@ ALL UNITS SHALL RESPOND WHEN AND IF AN ORDER IS ISSUED WITHIN FIVE (5) MINUTES.'
         await client.send_message(message.channel, msg)
 
 
-client.run(os.getenv('TOKEN'))
+client.run(os.getenv('Nzc4MjcxNjE0NzU1NDA1ODY0.X7Pj7A.cXdZcqBHHW59L65FEPRbAKujSeA'))
